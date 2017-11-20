@@ -75,6 +75,7 @@
     <Compile Include="OrderFormControl.xaml.cs">
       <DependentUpon>OrderFormControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="NewTestingBranch.cs" />
     <Compile Include="TestingBranchClass.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
