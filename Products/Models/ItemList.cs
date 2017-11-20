@@ -10,6 +10,8 @@ namespace Products.Models
 {
     public class ItemList
     {
+
+
         private IDictionary<string, Part> parts = new Dictionary<string, Part>(StringComparer.CurrentCultureIgnoreCase);
 
         public ItemList()
