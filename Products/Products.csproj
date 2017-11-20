@@ -63,6 +63,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="MasterBranchClass.cs" />
     <Compile Include="Models\ItemList.cs" />
     <Compile Include="Models\OrderedProductUI.cs" />
     <Compile Include="Models\OrderedProducts.cs" />
