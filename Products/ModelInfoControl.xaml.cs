@@ -11,6 +11,7 @@ namespace Products
     public partial class ModelInfoControl : UserControl
     {
 
+
         public ModelInfoControl()
         {
             InitializeComponent();
