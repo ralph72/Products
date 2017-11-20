@@ -12,6 +12,7 @@ namespace Products
     {
 
 
+
         public ModelInfoControl()
         {
             InitializeComponent();
