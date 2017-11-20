@@ -10,9 +10,6 @@ namespace Products
     /// </summary>
     public partial class ModelInfoControl : UserControl
     {
-
-
-
         public ModelInfoControl()
         {
             InitializeComponent();
